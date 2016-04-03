@@ -118,7 +118,7 @@
          "toolchangeRetractRate" : 6.0
       }
    ],
-   "extruderTemp0" : 218,
+   "extruderTemp0" : 205,
    "extruderTemp1" : 210,
    "extrusionProfiles" : {
       "bridges" : {
@@ -139,15 +139,15 @@
       },
       "infill" : {
          "fanSpeed" : 0.50,
-         "feedrate" : 30.0
+         "feedrate" : 28.0
       },
       "insets" : {
          "fanSpeed" : 0.50,
-         "feedrate" : 20.0
+         "feedrate" : 18.0
       },
       "outlines" : {
          "fanSpeed" : 0.50,
-         "feedrate" : 20.0
+         "feedrate" : 18.0
       },
       "raft" : {
          "fanSpeed" : 0.50,
@@ -180,10 +180,10 @@
    "infillShellSpacingMultiplier" : 0.70,
    "insetDistanceMultiplier" : 1.0,
    "jsonToolpathOutput" : false,
-   "layerHeight" : 0.1599999964237213,
+   "layerHeight" : 0.1800000071525574,
    "leakyConnectionsAdjacentDistance" : 0.0,
    "maxConnectionLength" : 10.0,
-   "maxSparseFillThickness" : 0.2000000029802322,
+   "maxSparseFillThickness" : 0.1800000071525574,
    "maxSpurWidth" : 0.50,
    "minLayerDuration" : 3.50,
    "minLayerHeight" : 0.010,
